@@ -1,0 +1,17 @@
+.imgSize{
+   width:160px;
+   height: 160px;
+}
+
+.div:hover{
+  transform: scale(1.15);
+}
+
+.bgSection1{
+  background-color: #1ABC9B;
+}
+
+hr.solid {
+  border-top: 3px solid;
+  max-width: 100%;
+}
